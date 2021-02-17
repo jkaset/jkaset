@@ -4,7 +4,6 @@
 
 class JasminKaset():
   def __init__(self):
-      self.age = 37
       self.current_title = "Apprentice Software Developer"
       self.current_job = "Nashville Software School"
       self.education_history = "Summa cum laude from Middle Tennessee State University 2005"

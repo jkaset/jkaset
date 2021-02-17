@@ -11,7 +11,7 @@ class JasminKaset():
       self.pronouns = ["she/her"]
       self.languages = ["Python", "React"]
       self.career_aim = "Software developer"
-      self.interests = ["Distance running", "Playing Music", "LOTR", "The X-Files"] 
+      self.interests = ["Distance running", "Playing Music", "LOTR"] 
       self.current_project = "finishing final 30 days of Full-Stack Web Dev Bootcamp"
       
     def say_hi(self):

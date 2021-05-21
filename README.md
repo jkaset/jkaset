@@ -4,23 +4,18 @@
 
 class JasminKaset():
   def __init__(self):
-      self.current_title = "Apprentice Software Developer"
-      self.current_job = "Nashville Software School"
+      self.current_title = "Software Developer"
+      self.current_job = "TNH.dev"
       self.education_history = "Summa cum laude from Middle Tennessee State University 2005"
       self.degree = "B.A. in English(I can write a great email)"
       self.pronouns = ["she/her"]
-      self.languages = ["Python", "React"]
-      self.career_aim = "Software developer"
+      self.languages = ["Python", "React", "Vue"]
       self.interests = ["Distance running", "Playing Music", "LOTR"] 
-      self.current_project = "finishing final 30 days of Full-Stack Web Dev Bootcamp"
       
     def say_hi(self):
         print(f"""Hey there!
         I'm currently an {self.current_title} at {self.current_job}.
-        I am searching for a full-time gig as a {self.career_aim}.
-        Some of my interests include {self.interests}, and my
-        current project is {self.current_project}""")
-
+        Some of my interests include {self.interests}.
 
 me = JasminKaset()
 me.say_hi()

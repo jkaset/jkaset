@@ -6,8 +6,6 @@ class JasminKaset():
   def __init__(self):
       self.current_title = "Software Developer"
       self.current_job = "TNH.dev"
-      self.education_history = "Summa cum laude from Middle Tennessee State University 2005"
-      self.degree = "B.A. in English(I can write a great email)"
       self.pronouns = ["she/her"]
       self.languages = ["Python", "React", "Vue"]
       self.interests = ["Distance running", "Playing Music", "LOTR"] 

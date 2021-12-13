@@ -5,7 +5,7 @@
 class JasminKaset():
   def __init__(self):
       self.current_title = "Software Developer"
-      self.current_job = "TNH.dev"
+      self.current_job = "Ovia Healthcare"
       self.pronouns = ["she/her"]
       self.languages = ["Python", "React", "Vue"]
       self.interests = ["Distance running", "Playing Music", "LOTR"] 

@@ -4,8 +4,8 @@
 
 class JasminKaset():
   def __init__(self):
-      self.current_title = "QA Analyst"
-      self.current_job = "Ovia Healthcare"
+      self.current_title = "Senior Analytics Engineer"
+      self.current_job = "Ovia by Labcorp"
       self.pronouns = ["she/her"]
       self.languages = ["Python", "React", "Vue"]
       self.interests = ["Distance running", "Playing Music", "LOTR"] 
